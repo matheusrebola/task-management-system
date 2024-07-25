@@ -1,4 +1,4 @@
-package taskmanagementsystem.repositorys;
+package taskmanagementsystem.repositories;
 
 import java.util.UUID;
 
